@@ -1,0 +1,21 @@
+* {
+  background-color: #ADD8E6;
+  font-family: Verdana;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+ul {
+  padding-left: 500px;
+  padding-right: auto;
+}
+
+li {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 18px;
+  font-weight: 550;
+}
